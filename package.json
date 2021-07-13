@@ -1,6 +1,6 @@
 {
   "name": "arvis-calculator-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Calculator plugin for Arvis",
   "main": "index.js",
   "files": [

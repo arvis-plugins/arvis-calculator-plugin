@@ -3,6 +3,8 @@ const math = require("mathjs");
 
 const getPluginItem = ({ inputStr }) => {
   let items = [];
+  if (!inputStr) return { items };
+
   try {
     const result = String(math.evaluate(inputStr));
 
