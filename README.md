@@ -18,6 +18,8 @@ Calculator plugin for Arvis.
 
 ## Related
 
+- [mathjs](https://github.com/josdejong/mathjs) - API for this module.
+
 - [arvish](https://github.com/jopemachine/arvish) - Arvis workflow, plugin creator tools
 
 - [available plugins](https://github.com/jopemachine/arvis/blob/master/documents/plugin-links.md)
