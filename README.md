@@ -1,6 +1,6 @@
 # arvis-calculator-plugin
 
-Calculator plugin example for Arvis.
+Calculator plugin for Arvis.
 
 ![](./media/1.png)
 
