@@ -1,0 +1,35 @@
+{
+  "name": "arvis-calculator-plugin",
+  "version": "0.0.2",
+  "description": "Calculator plugin for Arvis",
+  "main": "index.js",
+  "files": [
+    "icon.png",
+    "arvis-plugin.json",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup",
+    "prepublishOnly": "arvish-prepublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopemachine/arvis-calculator-plugin.git"
+  },
+  "keywords": [
+    "arvis",
+    "arvish",
+    "arvis-plugin",
+    "calculator",
+    "math"
+  ],
+  "author": "jopemachine",
+  "license": "MIT",
+  "homepage": "https://github.com/jopemachine/arvis-calculator-plugin#readme",
+  "dependencies": {
+    "arvish": ">=0.5.6",
+    "mathjs": "^9.4.4"
+  }
+}
