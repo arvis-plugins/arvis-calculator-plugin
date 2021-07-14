@@ -6,7 +6,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![GitHub issues](https://img.shields.io/github/issues/jopemachine/arvis-calculator-plugin.svg)](https://GitHub.com/jopemachine/arvis-calculator-plugin/issues/)
 
-Calculator plugin for Arvis.
+Calculator plugin for [Arvis](https://github.com/jopemachine/arvis).
 
 ![](./media/1.png)
 
@@ -16,10 +16,16 @@ Calculator plugin for Arvis.
 
 ![](./media/4.png)
 
+## Installation
+
+```
+$ npm i -g arvis-calculator-plugin
+```
+
 ## Related
 
 - [mathjs](https://github.com/josdejong/mathjs) - API for this module.
 
 - [arvish](https://github.com/jopemachine/arvish) - Arvis workflow, plugin creator tools
 
-- [available plugins](https://github.com/jopemachine/arvis/blob/master/documents/plugin-links.md)
+- [other plugins](https://github.com/jopemachine/arvis/blob/master/documents/plugin-links.md)
