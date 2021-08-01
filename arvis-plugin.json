@@ -5,10 +5,10 @@
     "enabled": true,
     "description": "Calculator plugin for Arvis",
     "readme": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "defaultIcon": "icon.png",
     "main": "index.js",
-    "webAddress": "https://github.com/jopemachine/arvis-calculator-plugin#readme",
+    "webAddress": "https://github.com/arvis-plugins/arvis-calculator-plugin#readme",
     "actions": [
         {
             "type": "clipboard",
